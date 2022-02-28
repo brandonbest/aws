@@ -13,7 +13,7 @@ chmod +x /usr/local/bin/ssm-put;
 
 ### Preparing to Run the Script
 
-Before you run the script, make sure you have control tower setup (https://github.com/brandonbest/aws-cli). You may need to run this command first to connect to control tower:
+Before you run the script, make sure you have control tower setup (https://github.com/brandonbest/aws). You may need to run this command first to connect to control tower:
 
 ```
 controltower
